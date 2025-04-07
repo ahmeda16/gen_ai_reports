@@ -1,6 +1,6 @@
 # Generative AI - Theory & Applications
 ## Author: Syed Abraham Ahmed
-
+## NOTE: This is for portfolio purposes, please do not redistribute
 This repository contains coursework for the course **Generative AI: Theory and Applications**. The reports focus on developing and evaluating a range of generative models—including Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), Diffusion Models, and evaluation metrics using Fréchet Inception Distance score, and Inception Score to evaluate and address tasks such as image inpainting, latent space interpolation, and unsupervised generation.
 
 ## Overview
